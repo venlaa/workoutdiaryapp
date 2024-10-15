@@ -5,13 +5,11 @@ import { Calendar } from 'react-native-calendars';
 import WorkoutContext from './WorkoutContext';
 import { customTheme, styles } from '../theme';
 
-
 const buttons = [
     { value: 'walk', label: 'Walking', icon: 'walk' },
     { value: 'run', label: 'Running', icon: 'run-fast' },
     { value: 'bike', label: 'Biking', icon: 'bike' },
   ];
-  
   
   function AddWorkoutView() {
   

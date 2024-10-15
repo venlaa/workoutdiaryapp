@@ -5,7 +5,6 @@ import WorkoutContext from './WorkoutContext';
 import { styles } from '../theme';
 
 function WorkoutListView() {
-  
 
     const { workouts } = useContext(WorkoutContext);
   

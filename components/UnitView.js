@@ -2,7 +2,6 @@ import { Text, View, SafeAreaView} from 'react-native';
 import { RadioButton } from 'react-native-paper';
 import { styles } from '../theme';
 
-
 function UnitView() {
 
     return (

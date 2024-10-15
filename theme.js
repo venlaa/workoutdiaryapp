@@ -17,7 +17,6 @@ const customTheme = {
     },
 };
 
-
 const styles = StyleSheet.create({
     container: {
       flex: 1,
